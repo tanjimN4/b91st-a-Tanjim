@@ -88,3 +88,37 @@
     padding-left: 60px;
     padding-top: 30px;
 }
+
+.hotel {
+    width: 1320px;
+    height: 482px;
+    background-color: rgb(236, 224, 228);
+    margin-left: 100px;
+    text-align: center;
+    margin-bottom: 50px;
+
+
+}
+
+.PDT {
+    padding-top: 120px;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+   
+}
+
+.red {
+    color: red;
+}
+.join-now{
+    background-color: red;
+    border: none;
+    font-size: 32px;
+    border-radius: 20px;
+    color: aliceblue;
+
+}
