@@ -167,7 +167,9 @@
 .one-two {
     padding-left: 100px;
 }
-
+.sale{
+    /* margin-left: 20px; */
+}
 .FUNCTIONAL {
     text-align: center;
     margin-top: 100px;
@@ -184,31 +186,45 @@
     margin-bottom: 25px;
 }
 
-.may {
-    margin-top: 100px;
-    width: 600px;
-    height: 433px;
-    background-image: url(resources/Rectangle\ 1.png);
-    background-repeat: no-repeat;
-    border-radius: 16px 16px 0px 0px;
-    margin-left: 60%;
+.group-fist{
+    display: flex;
+    justify-content: center;
 }
-
-.Group-fist {
-    padding-top: 90px;
-    margin-left: -150px;
-
+.may{
+   background-image: url(resources/Rectangle\ 1.png);
+   background-repeat: no-repeat;
+   width: 1300px;
+   height: 433px;
+   background-position: right;
+      
 }
-
-.box {
-    
-    height: 229px;
+.group-fist{
+    display: flex;  
+}
+.group-second{
+    padding-left: 200px;
+}
+.group-third{
+    padding-right: 350px;
+    padding-top: 50px;
+}
+.new-may{
     background-image: url(resources/Rectangle\ 2.png);
     background-repeat: no-repeat;
-    margin-right: 180px;
-    margin-left: 100px;
-
-}
-.Group-second{
+    margin-left: 200px;
+    margin-right: 219px;
+    height: 229px;
     
+}
+.Portfolio{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.imag-aline{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.imag-marjin{
+    margin-right: 20px;
 }
