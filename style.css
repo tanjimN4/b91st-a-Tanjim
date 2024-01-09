@@ -19,6 +19,7 @@
     text-align: center;
     padding: 400px;
     color: aliceblue;
+    font-size: 50px;
 
 }
 
@@ -168,9 +169,7 @@
     padding-left: 100px;
 }
 
-.sale {
-    /* margin-left: 20px; */
-}
+
 
 .FUNCTIONAL {
     text-align: center;
